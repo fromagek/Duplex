@@ -1,0 +1,5 @@
+ignore build directorys and build file:
+build
+dist
+Duplex.spec
+
